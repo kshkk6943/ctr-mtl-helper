@@ -9,7 +9,7 @@ import (
 func CloseDueToError(err error) int {
 	fmt.Println(err.Error())
 	fmt.Println("Closing the application due to an error...")
-	fmt.Println("Press anything to close the application")
+	fmt.Println("Press any key to close the application")
 	scanner := bufio.NewScanner(os.Stdin)
 	scanner.Scan()
 	return 0
@@ -17,7 +17,7 @@ func CloseDueToError(err error) int {
 
 func CloseApplication() int {
 	fmt.Println("Done.")
-	fmt.Println("Press anything to close the application")
+	fmt.Println("Press any key to close the application")
 	scanner := bufio.NewScanner(os.Stdin)
 	scanner.Scan()
 	return 0
