@@ -1,8 +1,490 @@
 old,new
+연우,YeonWoo
+형님,HyungNim
+오라버니,Oraboni
+판트,Phante
+에도라,Edora
+무왕,Martial King
+외뿔부족,One-Horned Tribe
+대장로,Grand Elder
+청화도,Azure Sword Clan
+검무신,Sword God
+도무신,Saber God
+궁무신,Archery God
+권무신,Fist God
+창무신,Spear God
+궁그닐,Gungnir
+플랑,Pulang
+리언트,Leonte
+바할,Baal
+화권,Fire Fist
+레드드래곤,Red Dragon
+81개의눈,Eighty One Eyes
+여름여왕,Summer Queen
+드래곤하트,Dragon Heart
+드래곤피어,Dragon Fear
+슬레이어,Slayer
+드래곤,Dragon
+독식자,Hoarder
+퀘스트,Quest
+히든,Hidden
+피스,Piece
+공적치,Karma
+내단,Core
+신수,Sacred beast
+짹짹,Chirpy
+피닉스,Phoenix
+허무룡,Void Dragon
+어비스터틀,Abyss Turtle
+샤벨타이거,Saber Tiger
+환수의알,Mythical beast egg
+환수,Mythical beast
+팔극권,Bajiquan
+팔극검,Bajijien
+팔괘,Eight Trigrams
+천익기공,CheonIkGong
+열화,Flame Infusion
+성화,Sacred Fire
+정화,Purification
+무공,Mugong
+비급,secret book
+초식,Basic Form
+볼케이노,Volcano
+불벼락,Fire Thunderbolt
+화뢰,Firebolt
+뇌흔,Thunder Scar
+육감,Sixth Sense
+영감,Inspiration
+순보,Flash Step
+축지,Shukuchi
+천리안,Clairvoyance
+스킬트리,Skill Tree
+스킬북,skillbook
+스킬,skill
+시스템,system
+초감각,hyperesthesia(extrasensory)
+헤이스트,Haste
+스트랭스,Strength
+블링크,Blink
+푸른정령,Blue Spirit
+물리내성,Physical Resistance
+시간예지,Foresight
+마력원,mana source
+마력회로,mana circuit
+마력기관,mana organ
+마력통로,Mana Path
+마력의축복을받은,Blessed By Mana
+마력,mana
+항마력,Anti-mana
+마나스트림,mana stream
+마나,mana
+영압,Spirit Pressure
+영력,Spiritual Power
+용마안,Dragonic Eyes
+용종,Dragonic Species
+용제,Dragon Body
+용체,Dragon Physique
+악마수,Devil tree
+악마대공,Devil Grand Duke
+악마학,demonology
+악마술,Demonic Arts
+악마,devil
+마룡체,Demonic Dragon Physique
+마의,Demon의
+마가,Demon가
+마와,Demon와
+마는,Demon는
+마를,Demon를
+마화,demonize
+용의,Dragon의
+용이,Dragon이
+용혈,Dragon혈
+용과,Dragon과
+용은,Dragon은
+용을,Dragon을
+용골,Dragon Skeleton
+용린,Dragon Scale
+용맥,Dragon Vein
+용문,Dragon Crest
+인자,Factor
+환룡,Mythical Dragon
+마룡,Demonic Dragon
+네메시스,Nemesis
+니케,Nike
+고룡,Ancient Dragon
+칼라투스,Kalatus
+브레스,Breath
+아티팩트,Artifact
+마장대검,Magic Bayonet
+크라슈나의단검,Krishna의 Dagger
+비그리드,Vigrid
+아이기스,Aegis
+바토리의,Bathory의
+흡혈검,Vampiric Sword
+칠흑왕의절망,Black King의 Despair
+마장철면,Demonic Iron Mask
+마장,Demonic Garb
+신마도,Shinmado
+허초,potential move
+페이크,counterfeit
+층계,floor
+플레이어,player
+랭커,ranker
+올포원,All For One
+아르티야,Arthia
+마기,demonic energy
+요기,supernatural energy
+요술([^사]),Sorcery
+요술사,Sorcerer
+현자의돌,Philosopher의 stone
+양도,Yang Saber
+음검,YIN Sword
+소드브레이커,Sword Breaker
+시미터,scimitar
+샤브르,saber
+헌팅소드,hunting sword
+보도,Treasured sword
+요도,Demonic Saber
+마검,Demonic sword
+마령,Demonic spirit
+인트레니안,Interenian
+아카샤,Akasha
+아이테르,Aether
+샤논,Shannon
+한령,Han Yeong
+괴이,Monstrosity
+리치,Lich
+사귀([^었]),soul
+데스나이트,Death Knight
+데스노블,Death Noble
+장웨이,Zhang Wei
+이예,Hou Yi
+갈리어드,Galliard
+브라함,Braham
+연단술사,elixir refiner
+연단술([^사]),Pill Refinement Art
+연단,elixir
+연금술,연금술
+환단,medicinal pill
+마도서,Grimoire
+베이럭,Beiruck
+비에라듄,Viera June
+비에라,Viera
+헤노바,Henova
+대장장이,대장장이
+주물,casting
+마도공학,Magic Engineering
+곰방대,Smoking Pipe(teddy bear)
+증강환,Enhancer Pill
+우르드,Urd
+햅번,Hepburn
+베르단다,Verdandi
+스쿨드,Skuld
+프레이야,Freya
+헤르메스,Hermes
+아테나,Athena
+포세이돈,Poseidon
+아레스,Ares
+헤파이스토스,Hephaestus
+디오니소스,Dionysus
+올림포스의보고,Olympus의 Treasury
+올림포스,Olympus
+데바,Deva
+아스가르드,Asgard
+르인페르날,Le Infernal
+나이트워치,Night Watch
+비스터,Biester
+라플라스,Laplace
+이블케,Yvlke
+트라빌,Travill
+오효효효,Ohyohyohyo
+오효효,Ohyohyo
+오효,Ohyo
+루피,Lupi
+기공,Qigong(mana control)
+대련,Sparring
+식객,free loader
+고문서,Ancient Document
+수행자,Practitioner
+금인,Golden Person(gold)
+의실,Medical Room
+주화입마,QiGong Deviation
+금기,금기
+신혈,divine blood
+신령,divine spirit
+영액,spirit essence
+지고종,supreme species
+초월종,transcendent species
+엘로힘,Elohim
+고행오산,Five Mountains Of Self-Denial
+태극혜반고검,TaiChi Wisdom Pangu Sword
+고행,Self Denial
+우화등선,Taoist Immortal
+완전체,Complete Body
+직관,직관
+기질,기질
+케르눈노스,Cernunnos
+킨드레드,Kindred
+신목,Sacred Tree
+빅토리아,Victoria
+마군,Demon Army
+마신의인,Demon God Seal
+마신,Demon God
+천마,Heavenly Demon
+연계기,Connecting Skills
+전투의지,will to fight
+대공,Grand Duke
+마계,demon world
+마경,demon territory
+하계,middle domain
+심상세계,imaginary world
+마성,fiendishness
+달인,Master
+명인,Grand Master
+진인,True Master
+오러,Aura
+레온하르트,Leonhart
+발데비히,Valdevich
+칭호,Title
+특성,trait
+냉혈,Cold Blooded
+수도자,수도자
+비기,Secret Technique
+만통,Psychometry
+시차괴리,time difference
+어기전성,Telepathy
+사두,Sadhu
+오행산,Five Elements Mountain
+미후왕,Monkey King
+손오공,Sun Wukong
+레베카,Rebecca
+여의금고봉,RuyiJinguBang
+여의봉,Monkey King's staff
+제천대성,제천대성
+선술,ZenArt
+단천,Broken Sky
+검기,Sword Qi
+술식,술식
+마법무장,Enchantment Armor
+마법진,magic circle
+마도구,magic tool
+마법,마법
+주술,Shamanism
+주술사,Shaman
+인챈터,enchanter
+귀검,Ghost sword
+최고신,Supreme God
+주신,Primary God
+석가여래,Shakyamuni Buddha
+신지,Sage
+헤더,Header
+사념체,Intent Body
+사념,Intent
+신진철,Divine iron
+혜안,Insight
+제천류,Heavens Equal Style
+각검,Angled sword
+투기,Dou Qi
+흑기,dark energy
+형구,Torture Instrument
+도장,Dojo (or stamp)
+허물,Skin (or error)
+용신,Dragon God
+조각,Fragment
+수작,Excellent grade
+걸작,Master grade
+명작,masterpiece
+재조정,readjustment
+견장,Epaulet
+환몽,Dream
+미몽,Delusion
+화령,Fire Spirit
+빙의했,possession
+재생,재생
+포악한용오름,Vicious Tornado
+심연,abyss
+정령술,Spirit Arts
+체술,Taijutsu (physical art)
+가호,Blessing
+반거인,Half Giant
+화마,Fire Magic
+영역화,Territorialization
+권역,Territory
+광폭화,Berserk
+환영,Shadow
+부식,Curse
+사일동궁,SaIl-Dong Bow
+프로토게노,protogene
+시그니처,signature
+파바밧,pababat
+파밧,pabat
+퍼버버벙,pobobobong
+가가각,gagagag
+크와앙,Kuaang
+쐐애액,ssweeek
+콰콰쾅,KwaKwaKwang
+콰쾅,KwaKwang
+콰콰콰,KwaKwaKwa
+촤촤촤,chwachwachwa
+치이잉,chiiing
+콰아앙,kwaaang
+콰앙,kwaang
+크와앙,kuwaang
+휘휘휘,hwihwihwi
+브라흐마,Brahma
+요정안,Fairy Eye
+마족,Demon Clan
+마왕독,Demon King Poison
+마왕,Demon King
+용인,Dragon Born
+헤븐윙,Heaven Wing
+아난타,Ananta
+헤메라,Hemera
+동생공,Little brother
+세샤,Shesha
+모옥,cottage
+결계,barrier
+혈국,Blood Country
+연성진,YeonSeong array
+봉인진,Sealing array
+우드득,Ududuk
+으드득,Eududuk
+우득,Uduk
+콰르릉,Kwarurung
+쿠르르릉,Kurururung
+쿠르릉,Kururung
+콰르르,Kwaruru
+우르르,Ururu
+각룡,Horned Dragon
+식탐황제,Gluttonous Emperor
+마핵,Demonic core
+마혈,Demon Blood
+팟-,Pah-
+씨익,ssiik
+끼아악,Kiaak
+키아아,Kiaa
+화아아,Hwaaa
+화아악,Hwaaak
+좌아악,jwaaak
+파지직,Pajijik
+꾸우웅,kkuuung
+까앙,kkaang
+쿠웅,kuung
+쿠우우,kuuu
+쿠우웅,kuuung
+우우웅,uuung
+뇌기,lightning energy
+뇌전,thunderbolt
+정신체,spirit embodiment
+마탑,magic tower
+마도단,Demon Saber corps
+철사자단,Iron Lion corps
+스트레이,Stray
+칠드런,Children
+아가레스,Agares
+새카만,jet-black
+원륜,round wheel
+광명,Light
+신벌,Divine Punishment
+아아악,aaah
+마독,Demonic poison
+살의,killing intent
+칼바람,biting wind (kalbaram)
+피피핑,pipiping
+드미트리,Dimitri
+발푸르기스,Walpurgis
+그리고,그리고
+스테이지,stage
+쿠쿠쿠,kukuku
+쿠쿠쿵,kukukung
+콰드득,kwaduduk
+콰득,kwaduk
+촤악,chwaak
+촤아악,chwaaak
+촤르륵,chwaruruk
+주르륵,chururuk
+찰칵,chakag
+츠츠츠,tsutsutsu
+차차착,chachachak
+채채챙,chechecheng
+끼익,kkiik
+끼이익,kkiiik
+우우,huuu
+히끅,hikkeuk
+와장창,crash (wajangchang)
+호문클루스,homunculus
+메시지,message
+켈라트,Kelat
+천교,Chan Sect
+나타태자,Prince Nezha
+도철,docheol
+요르문간드,Jormungand
+니플헤임,Niflheim
+말라흐,Malakh
+아즈라엘,Azrael
+헤임달,Heimdall
+단탈리안,Dantalion
+거라건타,goragonta
+절교,Jie Sect
+시바,Shiva
+아그니,Agni (Oh, my)
+걀라르호른,Gjallarhorn
+아프리카,Africa
 으흐흐흐,Uhuhuhu
 으흐흐,Uhuhu
+찌르르,jjiruru
+아나스타샤,Anastasia
 구미호,Nine-tailed fox
-독나비,Poison Butterfly
-연우,YeonWoo
-외뿔부족,One-Horned Tribe
-피닉스,Phoenix
+에메랄드,emerald
+타블렛,tablets
+아이스크림,ice cream
+케이크,cake
+아트란,Atlan
+트리메기투스,Trismegistus
+띠링,Ring!
+가라비토,Garabito
+비스마르크,Bismarck
+하난,Hanan
+리처드,Richard
+독나비,Poisonous Butterfly
+당희,DangHee
+트로이,Troy
+파우스트,Faust
+메피스토펠레스,Mephistopheles
+칼리번,Caliburn
+튜토리얼,tutorial
+무면목법서,Faceless Lawbook
+흉신악살,Vicious God Evil Spirit
+흉신,Vicious God
+악살,Evil Spirit
+권능,authority
+영매,Psychic
+핏빛현자,Blood red Sage
+환인,Phantom
+원념,deep-seated grudge
+신격,divinity
+신외지물,Worldly Possessions
+비원,earnest wish
+인피,bast
+면구,facial mask
+하늬바람,Westwind
+이상한,strange
+레어,lair
+케테르,Keter
+티페레트,Tiferet
+호크마,Chokhmah
+네차흐,Nechash
+크로이,Croix
+대행수,section chief
+행수,chief
+탁본,rubbing
+신약,divine medicine
+용생구자,Nine sons of the Dragon King
+암군,Dark Group
+백귀야행,Hyakki Yagyō
+이매망량,Chimimōryō
+귀곡성,(ghost wail)
+아귀,hungry ghost
+도올,Taowu
+수하,subordinate
+청람,Cheongram (clear view)
