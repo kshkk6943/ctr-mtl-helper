@@ -74,6 +74,7 @@ func (c CsvTextReplace) RunTextReplace(folderRoot string) {
 	if err != nil {
 		os.Exit(helper.CloseDueToError(err))
 	}
+	fmt.Println("Replacing text files...")
 	for _, file := range files {
 		if !file.IsDir() && strings.Contains(file.Name(), ".txt") {
 			fileLocation := folderRoot + constants.UnprocessedFolderName + file.Name()
@@ -99,4 +100,5 @@ func (c CsvTextReplace) RunTextReplace(folderRoot string) {
 			_ = newFile.Close()
 		}
 	}
+	os.Exit(helper.CloseApplication())
 }
