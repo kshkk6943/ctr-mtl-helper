@@ -47,12 +47,9 @@ old,new
 성화,Sacred Fire
 정화,Purification
 무공,Mugong
-비급,secret book
-초식,Basic Form
 볼케이노,Volcano
 불벼락,Fire Thunderbolt
 화뢰,Firebolt
-뇌흔,Thunder Scar
 육감,Sixth Sense
 영감,Inspiration
 순보,Flash Step
@@ -125,7 +122,6 @@ old,new
 마장철면,Demonic Iron Mask
 마장,Demonic Garb
 신마도,Shinmado
-허초,potential move
 페이크,counterfeit
 층계,floor
 플레이어,player
@@ -154,7 +150,6 @@ old,new
 한령,Han Yeong
 괴이,Monstrosity
 리치,Lich
-사귀([^었]),soul
 데스나이트,Death Knight
 데스노블,Death Noble
 장웨이,Zhang Wei
@@ -164,14 +159,12 @@ old,new
 연단술사,elixir refiner
 연단술([^사]),Pill Refinement Art
 연단,elixir
-연금술,연금술
 환단,medicinal pill
 마도서,Grimoire
 베이럭,Beiruck
 비에라듄,Viera June
 비에라,Viera
 헤노바,Henova
-대장장이,대장장이
 주물,casting
 마도공학,Magic Engineering
 곰방대,Smoking Pipe(teddy bear)
@@ -202,14 +195,12 @@ old,new
 오효,Ohyo
 루피,Lupi
 기공,Qigong(mana control)
-대련,Sparring
 식객,free loader
 고문서,Ancient Document
 수행자,Practitioner
 금인,Golden Person(gold)
 의실,Medical Room
 주화입마,QiGong Deviation
-금기,금기
 신혈,divine blood
 신령,divine spirit
 영액,spirit essence
@@ -218,11 +209,6 @@ old,new
 엘로힘,Elohim
 고행오산,Five Mountains Of Self-Denial
 태극혜반고검,TaiChi Wisdom Pangu Sword
-고행,Self Denial
-우화등선,Taoist Immortal
-완전체,Complete Body
-직관,직관
-기질,기질
 케르눈노스,Cernunnos
 킨드레드,Kindred
 신목,Sacred Tree
@@ -236,7 +222,6 @@ old,new
 대공,Grand Duke
 마계,demon world
 마경,demon territory
-하계,middle domain
 심상세계,imaginary world
 마성,fiendishness
 달인,Master
@@ -248,35 +233,25 @@ old,new
 칭호,Title
 특성,trait
 냉혈,Cold Blooded
-수도자,수도자
-비기,Secret Technique
-만통,Psychometry
 시차괴리,time difference
-어기전성,Telepathy
 사두,Sadhu
 오행산,Five Elements Mountain
 미후왕,Monkey King
 손오공,Sun Wukong
 레베카,Rebecca
-여의금고봉,RuyiJinguBang
 여의봉,Monkey King's staff
-제천대성,제천대성
 선술,ZenArt
 단천,Broken Sky
 검기,Sword Qi
-술식,술식
 마법무장,Enchantment Armor
 마법진,magic circle
 마도구,magic tool
-마법,마법
-주술,Shamanism
 주술사,Shaman
 인챈터,enchanter
 귀검,Ghost sword
 최고신,Supreme God
 주신,Primary God
 석가여래,Shakyamuni Buddha
-신지,Sage
 헤더,Header
 사념체,Intent Body
 사념,Intent
@@ -300,7 +275,6 @@ old,new
 미몽,Delusion
 화령,Fire Spirit
 빙의했,possession
-재생,재생
 포악한용오름,Vicious Tornado
 심연,abyss
 정령술,Spirit Arts
@@ -311,7 +285,6 @@ old,new
 영역화,Territorialization
 권역,Territory
 광폭화,Berserk
-환영,Shadow
 부식,Curse
 사일동궁,SaIl-Dong Bow
 프로토게노,protogene
@@ -393,7 +366,6 @@ old,new
 피피핑,pipiping
 드미트리,Dimitri
 발푸르기스,Walpurgis
-그리고,그리고
 스테이지,stage
 쿠쿠쿠,kukuku
 쿠쿠쿵,kukukung
@@ -466,7 +438,6 @@ old,new
 신외지물,Worldly Possessions
 비원,earnest wish
 인피,bast
-면구,facial mask
 하늬바람,Westwind
 이상한,strange
 레어,lair
@@ -474,17 +445,12 @@ old,new
 티페레트,Tiferet
 호크마,Chokhmah
 네차흐,Nechash
-크로이,Croix
 대행수,section chief
 행수,chief
 탁본,rubbing
 신약,divine medicine
-용생구자,Nine sons of the Dragon King
 암군,Dark Group
 백귀야행,Hyakki Yagyō
-이매망량,Chimimōryō
 귀곡성,(ghost wail)
-아귀,hungry ghost
-도올,Taowu
 수하,subordinate
 청람,Cheongram (clear view)
